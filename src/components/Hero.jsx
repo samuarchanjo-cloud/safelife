@@ -41,7 +41,7 @@ export default function Hero() {
             Segurança e operação para piscinas com confiança e profissionalismo
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-100 sm:text-xl">
-            Guardiões de piscina, operadores, manutenção e acompanhamento especializado para condomínios, clubes e áreas
+            Guardiões de piscina credenciados pelo pelo agrupamento maritimo do corpo de bombeiros, operadores formado pela FEEMA em tratamento de piscina, manutenção e acompanhamento especializado para condomínios, clubes e áreas
             de lazer no Rio de Janeiro.
           </p>
 
